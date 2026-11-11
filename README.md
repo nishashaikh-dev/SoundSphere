@@ -89,8 +89,7 @@ http://127.0.0.1:8000
 
 ## 👩‍💻 Developed By
 
-**Nisha Shaikh**
-*Laravel Developer*
+
 
 
 
